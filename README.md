@@ -34,5 +34,6 @@
   </a> 
 </div>
 
+![Snake animation](https://github.com/Huggotavares/Huggotavares/blob/output/github-contribution-grid-snake.svg)
 
 
