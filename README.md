@@ -25,17 +25,17 @@
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.gg/Huggo_dutra" target="_blank">
+  <a href="https://discord.gg/MUDJ3zMc" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
 
-  <!-- Gmail -->
+  <!-- Gmail (Correção: mailto) -->
   <a href="mailto:Hugotavaresdutra46@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hugotavaresdutra" target="_blank">
+  <a href="https://www.linkedin.com/in/hugo-tavares-dutra-116657304/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
