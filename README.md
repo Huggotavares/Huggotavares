@@ -19,21 +19,25 @@
   ##
  
 <div> 
+  <!-- Instagram -->
   <a href="https://instagram.com/huggo_dutra" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  </a>
+
+  <!-- Discord -->
   <a href="https://discord.gg/Huggo_dutra" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
+
+  <!-- Gmail -->
   <a href="mailto:Hugotavaresdutra46@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/Hugo Tavares Dutra" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hugotavaresdutra" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
-![Snake animation](https://github.com/Huggotavares/Huggotavares/blob/output/github-contribution-grid-snake.svg)
 
 
